@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/articles/article-dump/"}
 ---
 
-## [[Music/music\|Music]]
+## [[Music/music\|music]]
 
 - [Jeff Buckley's Divine Feminine](https://www.hearingthings.co/jeff-buckley-documentary-review/)
 - [How Fleetwood Mac Won the Classic Rock Wars](https://www.hearingthings.co/how-fleetwood-mac-won-the-classic-rock-wars-2/)
