@@ -10,4 +10,21 @@ A programming note: Don't expect fully formed thoughts. If this collection coale
 
 Do expect this garden to become overgrown and wild with abandoned interests, musings, and fixations.
 
+# about me
 
+I'm Rae. I'm trans masc. I'm a technical writer. That's all you need to know for now.
+
+# about my interests
+
+In no particular order and subject to change:
+ - [[Crafting/crafting\|crafting]]
+ - [[Projects/geocaching\|geocaching]]
+ - [[Gaming/video games\|video games]]
+ - [[Movies/movies\|movies]]
+ - [[Music/music\|music]]
+ - [[TV Shows/tv shows\|tv shows]]
+ - [[Books/books\|books]][^1]
+
+
+
+[^1]: TBD. As a lapsed English major this is perhaps a theoretical interest.
