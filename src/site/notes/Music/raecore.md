@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music/raecore/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/music/raecore/"}
 ---
 
 A bit ago some friends and I decided to do a group listen of an [album a day](https://1001albumsgenerator.com/) from the [1001 Albums You Must Hear Before You Die](https://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die) book series. People eventually got burned out on the project due to the preponderance of "Rolling Stone" taste: the type of white boy seal of approval that flattens music to a few acceptable genres with the occasional exceptional diversity inclusion. 
