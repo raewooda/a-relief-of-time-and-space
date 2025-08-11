@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/article-dump/"}
+{"dg-publish":true,"permalink":"/articles/article-dump/","dgPassFrontmatter":true}
 ---
 
 ## [[Music/music\|music]]
