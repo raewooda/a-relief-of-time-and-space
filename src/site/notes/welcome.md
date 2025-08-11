@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # hello, and welcome
