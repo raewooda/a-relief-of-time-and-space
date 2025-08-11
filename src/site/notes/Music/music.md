@@ -11,3 +11,6 @@ Music is how I feel, how I [[Music/PTSD\|regulate]], how I remember. I love the 
 | ![[albums/welcome to the shower.jpg\|welcome to the shower.jpg]] | welcome to the shower - Tanner York | \-                                                                                                                                    |
 
 { .block-language-dataview}
+
+
+![earcandy.jpg](/img/user/albums/earcandy.jpg)
