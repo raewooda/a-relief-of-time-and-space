@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"cssclasses":["cards","cards-cover"],"dg-content-classes":"cards","permalink":"/music/music/","contentClasses":"cards","dgPassFrontmatter":true}
+{"dg-publish":true,"cssclasses":["list-cards"],"dg-content-classes":"list-cards","permalink":"/music/music/","contentClasses":"list-cards","dgPassFrontmatter":true}
 ---
 
 Music is how I feel, how I [[Music/PTSD\|regulate]], how I remember. I love the most when a [[Music/raecore\|familiar melody]] plays. 
 
 # listening to 
-| embed(cover)                           | album + " - " + artist              | blurb                                                                                                                                 |
-| -------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[albums/earcandy.jpg\|earcandy.jpg]] | earcandy - miso extra               | 90's R&B sensibilities with modern expansive soundscapes. Layered. Reductive comparison but if Utada Hikaru primarily dated fuckbois. |
-| ![[albums/gelli.jpg\|gelli.jpg]]       | switcheroo - Geli Haha              | \-                                                                                                                                    |
-| ![[albums/shower.jpg\|shower.jpg]]     | welcome to the shower - Tanner York | \-                                                                                                                                    |
 
-{ .block-language-dataview}
+
+- ![earcandy.jpg](/img/user/albums/earcandy.jpg) earcandy - miso extra
+- ![gelli.jpg](/img/user/albums/gelli.jpg)switcheroo - Gelli Haha
+- ![shower.jpg](/img/user/albums/shower.jpg)welcome to the shower - Tanner York
