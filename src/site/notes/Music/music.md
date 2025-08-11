@@ -8,7 +8,8 @@ Music is how I feel, how I [[Music/PTSD\|regulate]], how I remember. I love the 
 | embed(link(cover))                     | album + " - " + artist              | blurb                                                                                                                                 |
 | -------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ![[albums/earcandy.jpg\|earcandy.jpg]] | earcandy - miso extra               | 90's R&B sensibilities with modern expansive soundscapes. Layered. Reductive comparison but if Utada Hikaru primarily dated fuckbois. |
-| ![[shower. jpg\|shower. jpg]]          | welcome to the shower - Tanner York | test                                                                                                                                  |
+| ![[albums/gelli.jpg\|gelli.jpg]]       | switcheroo - Geli Haha              | \-                                                                                                                                    |
+| ![[albums/shower.jpg\|shower.jpg]]     | welcome to the shower - Tanner York | \-                                                                                                                                    |
 
 { .block-language-dataview}
  
