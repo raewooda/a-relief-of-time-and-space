@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclasses":["cards","cards-cover"],"dg-content-classes":"cards","permalink":"/music/music/","contentClasses":"cards","dgPassFrontmatter":true}
+{"dg-publish":true,"cssclasses":["cards","cards-cover"],"permalink":"/music/music/","dgPassFrontmatter":true}
 ---
 
 Music is how I feel, how I [[Music/PTSD\|regulate]], how I remember. I love the most when a [[Music/raecore\|familiar melody]] plays. 
@@ -12,4 +12,4 @@ Music is how I feel, how I [[Music/PTSD\|regulate]], how I remember. I love the 
 | ![[albums/shower.jpg\|shower.jpg]]     | welcome to the shower - Tanner York | \-                                                                                                                                    |
 
 { .block-language-dataview}
- 
+	
