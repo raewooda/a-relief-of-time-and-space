@@ -7,11 +7,11 @@ Music is how I feel, how I [[Music/PTSD\|regulate]], how I remember. I love the 
 
 ## listening to 
 
-| embed(link(cover))                                                    | album +  " - " + artist             | blurb                                                                                                                                 |
-| --------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[https://f4.bcbits.com/img/a2111807728_10.jpg\|a2111807728_10.jpg]] | earcandy - miso extra               | 90's R&B sensibilities with modern expansive soundscapes. Layered. Reductive comparison but if Utada Hikaru primarily dated fuckbois. |
-| ![[https://f4.bcbits.com/img/a2554647118_16.jpg\|a2554647118_16.jpg]] | welcome to the shower - Tanner York | test                                                                                                                                  |
-| ![[https://f4.bcbits.com/img/a0701366582_16.jpg\|a0701366582_16.jpg]] | switcheroo - Gellli Haha            | another test                                                                                                                          |
+| cover                                                  | album +  " - " + artist             | blurb                                                                                                                                 |
+| ------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ![cover](https://f4.bcbits.com/img/a2111807728_10.jpg) | earcandy - miso extra               | 90's R&B sensibilities with modern expansive soundscapes. Layered. Reductive comparison but if Utada Hikaru primarily dated fuckbois. |
+| ![cover](https://f4.bcbits.com/img/a2554647118_16.jpg) | welcome to the shower - Tanner York | test                                                                                                                                  |
+| ![cover](https://f4.bcbits.com/img/a0701366582_16.jpg) | switcheroo - Gellli Haha            | another test                                                                                                                          |
 
 { .block-language-dataview}
 
