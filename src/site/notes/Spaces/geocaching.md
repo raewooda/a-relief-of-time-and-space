@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/geocaching/","contentClasses":"img-grid"}
+{"dg-publish":true,"permalink":"/spaces/geocaching/"}
 ---
 
 I like being aware of a space. I like looking at things from different angles. I like forcing myself to touch grass.

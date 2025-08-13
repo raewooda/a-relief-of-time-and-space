@@ -24,6 +24,7 @@ In no particular order and subject to change:
  - [[Music/music\|music]]
  - [[TV Shows/tv shows\|tv shows]]
  - [[Books/books\|books]][^1]
+- [[categories/albums\|albums]]
 
 
 
