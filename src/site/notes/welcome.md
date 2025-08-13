@@ -24,7 +24,6 @@ In no particular order and subject to change:
  - [[landing pages/music\|music]]
  - [[landing pages/tv shows\|tv shows]]
  - [[landing pages/books\|books]][^1]
-- [[categories/albums\|albums]]
 
 
 

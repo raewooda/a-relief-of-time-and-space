@@ -8,7 +8,7 @@ Reading is something I should do. I don't much but I should. When people says th
 
 Books I have recently read or am currently reading:
 
-| cover                                                                                                                     | file.name +  " - " + author            |
+| Cover                                                                                                                     | Title - Author                         |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | ![image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1719002769i/212924187.jpg) | Love in a F-cked-Up World - Dean Spade |
 | ![image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550724373l/42771901.jpg)  | How to Do Nothing - Jenny Odell        |
@@ -19,7 +19,7 @@ Books I have recently read or am currently reading:
 ## anti-library
 
 Books I haven't read but maybe I will:
-| cover                                                                                                                    | file.name +  " - " + author                                  |
+| Cover                                                                                                                    | Title - Author                                               |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421837014i/21531347.jpg) | How to Write About Music - Marc Woodworth, Ally Jane Grossan |
 

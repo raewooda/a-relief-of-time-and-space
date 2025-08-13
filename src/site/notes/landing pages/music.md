@@ -7,7 +7,7 @@ Music is how I feel, how I [[notes/PTSD\|regulate]], how I remember. I love the 
 
 ## listening to 
 
-| cover                                                  | file.name +  " - " + artist         |
+| Cover                                                  | Title - Artist                      |
 | ------------------------------------------------------ | ----------------------------------- |
 | ![image](https://f4.bcbits.com/img/a0701366582_16.jpg) | Switcheroo - Gellli Haha            |
 | ![image](https://f4.bcbits.com/img/a2554647118_16.jpg) | Welcome to the Shower - Tanner York |
