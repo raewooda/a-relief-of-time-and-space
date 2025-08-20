@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/landing-pages/crafting/","contentClasses":"cards"}
 ---
 
-Crafting is my outlet for expression and affection, combining disparate forms to create an object enthused with devotion. 
+Crafting is my outlet for expression and affection, combining disparate forms to create an object infused with care. 
 
 | File                                         | cover                                                                                                                                                                                                                              |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
