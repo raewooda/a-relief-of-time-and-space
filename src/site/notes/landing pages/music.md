@@ -7,11 +7,11 @@ Music is how I feel, how I [[notes/PTSD\|regulate]], how I remember. I love the 
 
 ## listening to 
 
-| Cover                                                  | Title - Artist                      |
-| ------------------------------------------------------ | ----------------------------------- |
-| ![image](https://f4.bcbits.com/img/a0701366582_16.jpg) | Switcheroo - Gellli Haha            |
-| ![image](https://f4.bcbits.com/img/a2554647118_16.jpg) | Welcome to the Shower - Tanner York |
-| ![image](https://f4.bcbits.com/img/a2111807728_10.jpg) | Earcandy - Miso Extra               |
+| Cover                                                                     | Title - Artist                           |
+| ------------------------------------------------------------------------- | ---------------------------------------- |
+| ![](https://e.snmc.io/i/1200/s/c3222d410433742d3731bd6b2edbe6e2/13576730) | Don't Tap the Glass - Tyler, The Creator |
+| ![](https://e.snmc.io/i/1200/s/7c92cf732f320a26af1fd875beb3bf54/13397883) | Headlights - Alex G                      |
+| ![](https://e.snmc.io/i/1200/s/386e1dc3efabf1288e924accb5fe2682/13321604) | Pleaser - Pretty Bitter                  |
 
 { .block-language-dataview}
 
