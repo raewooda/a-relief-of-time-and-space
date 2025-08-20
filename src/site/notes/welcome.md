@@ -23,8 +23,6 @@ In no particular order and subject to change:
  - [[landing pages/movies\|movies]]
  - [[landing pages/music\|music]]
  - [[landing pages/tv shows\|tv shows]]
- - [[landing pages/books\|landing pages/books]][^1]
-
-
+ - [[landing pages/books\|books]][^1]
 
 [^1]: TBD. As a lapsed English major this is perhaps a theoretical interest.
